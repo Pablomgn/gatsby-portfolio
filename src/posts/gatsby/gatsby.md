@@ -1,11 +1,11 @@
 ---
 title: "The Great Gatsby Bootcamp"
-date: "2019-04-04"
+date: "2019-06-10"
 ---
 
-I just launched a new bootcamp!
+I just launched a new bootcamp! 
 
-![Grass](./grass.png)
+![Grass](grass.jpg)
 
 ## Topics Covered
 
